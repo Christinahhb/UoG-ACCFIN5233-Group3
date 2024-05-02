@@ -1,6 +1,6 @@
 This code is for Group 3_Financial Information Retrieval_1G  report, about the data sentiment analysis as well as market analysis of Garmin watches 2017-2023 and the impact of apple watch ultra on Garmin watches.
 
-Folder file collection, NLP as well as sentiment analysis  included the code for report section 2,3,4 :
+Folder Text collection & sentiment analysis is the code for report section 2,3,4 which inculde:
 
 1. Garmin Data Collection & Sentiment Analysis: Garmin watches 2017-2023, YouTube comments and NYT news collection, natural language processing of collected data, as well as sentiment analysis and word cloud generation.
 
