@@ -15,7 +15,7 @@ Apple Watch Ultra 2022-2023 data: All text files that saved YouTube comments & N
 
 5.1, 5.2 and 5.3 are about economic data（Non-Text Data） combined with sentiment analysis.
 
-Datasets from Kaggle and Statista: 
+Datasets from Kaggle and Statista(Non-Text Data): 
 https://www.kaggle.com/code/prasantpoudel/smart-watch-prediction/notebook
 https://www.kaggle.com/code/devsubhash/fitness-trackers-market-analysis-eda-altair/input
 https://www.statista.com/statistics/1008102/quarterly-net-sales-of-garmin-by-segment/
