@@ -13,7 +13,7 @@ Garmin 2017-2023 Data: All text files that saved YouTube comments & NYT news abo
 
 Apple Watch Ultra 2022-2023 data: All text files that saved YouTube comments & NYT news about the Apple Watch Ultra from 2022-2023.
 
-5.1, 5.2 and 5.3 are about economic data combined with sentiment analysis.
+5.1, 5.2 and 5.3 are about economic data（Non-Text Data） combined with sentiment analysis.
 
 Datasets from Kaggle and Statista: 
 https://www.kaggle.com/code/prasantpoudel/smart-watch-prediction/notebook
