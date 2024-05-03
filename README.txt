@@ -1,5 +1,5 @@
 Project Overview:
-This code is for Group 3_Financial Information Retrieval_1G report, about the data sentiment analysis as well as market analysis of Garmin watch 2017-2023 and the impact of Apple Watch Ultra on Garmin watch.
+This code is for Group 3 Financial Information Retrieval report, about the data sentiment analysis as well as market analysis of Garmin watch 2017-2023 and the impact of Apple Watch Ultra on Garmin watch.
 
 Folder Text collection & sentiment analysis is the code for report section 2,3,4 which includes:
 
